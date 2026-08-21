@@ -8,3 +8,11 @@
 
 
 # python_basics
+# emmanuel
+## chidinma
+**emmanuel**
+*emmanuel*
+- emma
+- onyiye
+1. peace
+2. uchechukwu
