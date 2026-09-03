@@ -112,6 +112,7 @@ These are three different names.
 8. Cannot use python keywords.
 *import wrong *
 *class  wrong*
+;
 
 Rules For Module Names
 A module is simply a python file (.py).
